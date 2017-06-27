@@ -25,9 +25,9 @@
 		5913352E1EE8F28B001F53DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		591335311EE8F28B001F53DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		591335331EE8F28B001F53DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5913353A1EE8F881001F53DD /* swift_logo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "swift_logo@3x.png"; path = "../../PracticeImage/Chapter03-NavigationBar/swift_logo@3x.png"; sourceTree = "<group>"; };
-		5913353B1EE8F881001F53DD /* more@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "more@2x.png"; path = "../../PracticeImage/Chapter03-NavigationBar/more@2x.png"; sourceTree = "<group>"; };
-		5913353C1EE8F881001F53DD /* arrow-back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "arrow-back@2x.png"; path = "../../PracticeImage/Chapter03-NavigationBar/arrow-back@2x.png"; sourceTree = "<group>"; };
+		5913353A1EE8F881001F53DD /* swift_logo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "swift_logo@3x.png"; sourceTree = "<group>"; };
+		5913353B1EE8F881001F53DD /* more@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "more@2x.png"; sourceTree = "<group>"; };
+		5913353C1EE8F881001F53DD /* arrow-back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-back@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
